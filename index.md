@@ -2,6 +2,9 @@
 
 * [Add list - Lisää lista](abp:subscribe?location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt&title=Finnish Easylist Addition&requires_location=https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt)
 
+Suora osoite listaan:
+`https://raw.githubusercontent.com/finnish-easylist-addition/finnish-easylist-addition/master/Finland_adb.txt`
+
 <a class="github-button" href="https://github.com/finnish-easylist-addition/finnish-easylist-addition" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star finnish-easylist-addition/finnish-easylist-addition on GitHub">Star</a> <a class="github-button" href="https://github.com/finnish-easylist-addition/finnish-easylist-addition/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork finnish-easylist-addition/finnish-easylist-addition on GitHub">Fork</a>
 
 ## Recommended Adblockers / Suositellut Adblockerit

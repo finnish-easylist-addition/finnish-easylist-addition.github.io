@@ -9,7 +9,7 @@ Suora osoite listaan:
 
 ## Other recommended lists
 
-Easylist for international sites, included with most blockers.
+Easylist for international sites, included with nearly every blocker. Make sure to disable "allow acceptable ads" or "allow unannoying ads" feature, if your blocker has that.
 
 * <a href="abp:subscribe?location=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt&title=Anti-Cookie List&requiresLocation=https://secure.fanboy.co.nz/fanboy-cookiemonster.txt">Fanboy's Cookiemonster list</a> to block cookie consents (estää evästepopupit, tyyliä "me käytämme evästeitä - sulje")
 

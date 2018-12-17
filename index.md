@@ -7,6 +7,10 @@ Suora osoite listaan:
 
 <a class="github-button" href="https://github.com/finnish-easylist-addition/finnish-easylist-addition" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star finnish-easylist-addition/finnish-easylist-addition on GitHub">Star</a> <a class="github-button" href="https://github.com/finnish-easylist-addition/finnish-easylist-addition/fork" data-icon="octicon-repo-forked" data-size="large" data-show-count="true" aria-label="Fork finnish-easylist-addition/finnish-easylist-addition on GitHub">Fork</a>
 
+## Finnish Annoyance List
+
+[Information can be found here](https://github.com/finnish-easylist-addition/finnish-easylist-addition/blob/master/README.md#annoyances-list)
+
 ## Other recommended lists
 
 Easylist for international sites, included with nearly every blocker. Make sure to disable "allow acceptable ads" or "allow unannoying ads" feature, if your blocker has that.

@@ -19,7 +19,6 @@ Easylist for international sites, included with nearly every blocker. Make sure 
 
 ## Recommended Adblockers / Suositellut mainossuodattimet
 
-* [uBlock Origin](https://github.com/gorhill/uBlock) ([Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Opera](https://addons.opera.com/en/extensions/details/ublock/), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://www.microsoft.com/fi-fi/p/ublock-origin/9nblggh444l4?activetab=pivot:overviewtab), [Safari](https://safari-extensions.apple.com/details/?id=com.el1t.uBlock-3NU33NW2M3))
-
+* [uBlock Origin](https://github.com/gorhill/uBlock) ([Chrome](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm), [Opera](https://addons.opera.com/en/extensions/details/ublock/), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/), [Microsoft Edge](https://microsoftedge.microsoft.com/addons/detail/ublock-origin/odfafepnkmbhccpbejgmiehpchacaeak))
 
 <script async defer src="https://buttons.github.io/buttons.js"></script>
